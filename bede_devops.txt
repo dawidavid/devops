@@ -1,1 +1,2 @@
-t pierwszy dzien szkolenia
+to pierwszy dzien szkolenia
+drugi commit
